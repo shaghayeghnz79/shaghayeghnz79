@@ -23,22 +23,22 @@ My research interests lie at the intersection of **signal processing, data analy
 
 Some of the projects I have worked on include:
 
-**Radar Range Compression and SNR Analysis**
-Analysis of radar signal processing techniques including matched filtering and range compression for improving detection performance.
-
-**SAR Imaging via Time-Domain Back Projection**
-Implementation of synthetic aperture radar image reconstruction using time-domain back-projection algorithms.
-
-**Vehicle Localization using Extended Kalman Filter**
-Development of a sensor fusion and state estimation framework for vehicle localization using Kalman filtering techniques.
-
-**Wideband Microphone Array Processing**
+**[Wideband Microphone Array Processing](https://github.com/shaghayeghnz79/wideband-array-processing)**  
 Beamforming and time-delay estimation for spatial audio signal processing and interference reduction.
 
-**Deep Learning for Pain Intensity Classification**
+**[Radar Range Compression and SNR Analysis](https://github.com/shaghayeghnz79/range-compression-radar-analysis)**  
+Analysis of radar signal processing techniques including matched filtering and range compression for improving detection performance.
+
+**[SAR Imaging via Time-Domain Back Projection](https://github.com/shaghayeghnz79/sar-imaging-back-projection)**  
+Implementation of synthetic aperture radar image reconstruction using time-domain back-projection algorithms.
+
+**[Vehicle Localization using Extended Kalman Filter](https://github.com/shaghayeghnz79/ekf-vehicle-localization)**  
+Development of a sensor fusion and state estimation framework for vehicle localization using Kalman filtering techniques.
+
+**[Deep Learning for Pain Intensity Classification](https://github.com/shaghayeghnz79/pirate-pain-intensity-classification)**  
 Temporal deep learning models for analyzing human motion and video-based skeletal data for pain intensity recognition.
 
-**Plant Electrophysiological Signal Analysis for Stress Detection**
+**[Plant Electrophysiological Signal Analysis for Stress Detection]([PASTE-YOUR-NEW-REPO-LINK-HERE](https://github.com/shaghayeghnz79/plant-stress-detection-ml))**  
 Machine learning framework for interpreting plant electrical signals and detecting physiological stress conditions.
 
 ---
