@@ -57,9 +57,21 @@ Python · MATLAB · NumPy · SciPy · Scikit-learn · PyTorch · Jupyter
 Signal Processing · Machine Learning · Data Analysis · Radar Systems · Audio Processing · Video Analysis · Bio-signal Processing
 
 ---
+## 🎓 Education
 
+**MSc in Telecommunication Engineering (Signal and Data Analysis)**  
+Politecnico di Milano, Italy
+
+**BSc in Computer Engineering**  
+Shahid Chamran University of Ahvaz, Iran
+
+---
+## 🌱 Open To
+
+I am open to research collaborations, internships, and opportunities in signal processing, data analysis, and machine learning, especially in projects involving radar, audio, video, bio-signals, and intelligent sensing systems.
+
+---
 ## 📫 Contact
 
 📍 Milan, Italy
 📧 [zahra.nazar@mail.polimi.it](mailto:zahra.nazar@mail.polimi.it)
-🎓 Politecnico di Milano
