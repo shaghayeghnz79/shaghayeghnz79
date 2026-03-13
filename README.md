@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi there 👋 I'm Zahra Nazar Zadeh Attar
 
-<!--
-**shaghayeghnz79/shaghayeghnz79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I am a Master's student in **Telecommunication Engineering (Signal and Data Analysis)** at **Politecnico di Milano**. My academic work focuses on understanding complex signals and extracting meaningful information from data through **signal processing, statistical modeling, and machine learning**.
 
-Here are some ideas to get you started:
+I am particularly interested in analyzing different types of signals—including **sensor signals, bio-signals, audio signals, and video-based data**—and developing computational methods that transform raw measurements into useful insights. My work often combines mathematical modeling with machine learning techniques to study how information is encoded in signals and how it can be decoded for intelligent systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔬 Research Interests
+
+My research interests lie at the intersection of **signal processing, data analysis, and machine learning**, with focus on:
+
+* Statistical and computational signal processing
+* Audio and acoustic signal processing
+* Video and motion-based data analysis
+* Radar systems and synthetic aperture radar (SAR) imaging
+* Bio-signal and electrophysiological signal analysis
+* Sensor data processing and intelligent sensing systems
+
+---
+
+## 🚀 Selected Projects
+
+Some of the projects I have worked on include:
+
+**Radar Range Compression and SNR Analysis**
+Analysis of radar signal processing techniques including matched filtering and range compression for improving detection performance.
+
+**SAR Imaging via Time-Domain Back Projection**
+Implementation of synthetic aperture radar image reconstruction using time-domain back-projection algorithms.
+
+**Vehicle Localization using Extended Kalman Filter**
+Development of a sensor fusion and state estimation framework for vehicle localization using Kalman filtering techniques.
+
+**Wideband Microphone Array Processing**
+Beamforming and time-delay estimation for spatial audio signal processing and interference reduction.
+
+**Deep Learning for Pain Intensity Classification**
+Temporal deep learning models for analyzing human motion and video-based skeletal data for pain intensity recognition.
+
+**Plant Electrophysiological Signal Analysis for Stress Detection**
+Machine learning framework for interpreting plant electrical signals and detecting physiological stress conditions.
+
+---
+
+## 🛠️ Technical Skills
+
+**Programming & Tools**
+Python · MATLAB · NumPy · SciPy · Scikit-learn · PyTorch · Jupyter
+
+**Core Domains**
+Signal Processing · Machine Learning · Data Analysis · Radar Systems · Audio Processing · Video Analysis · Bio-signal Processing
+
+---
+
+## 📫 Contact
+
+📍 Milan, Italy
+📧 [zahra.nazar@mail.polimi.it](mailto:zahra.nazar@mail.polimi.it)
+🎓 Politecnico di Milano
