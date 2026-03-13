@@ -26,6 +26,9 @@ Some of the projects I have worked on include:
 **[Wideband Microphone Array Processing](https://github.com/shaghayeghnz79/wideband-array-processing)**  
 Beamforming and time-delay estimation for spatial audio signal processing and interference reduction.
 
+**[System Identification and Deconvolution](https://github.com/shaghayeghnz79/system-identification-and-deconvolution)**  
+Signal processing project on SISO and MIMO system identification, deconvolution, covariance estimation, whitening, and CRB-based performance analysis implemented in MATLAB.
+
 **[Radar Range Compression and SNR Analysis](https://github.com/shaghayeghnz79/range-compression-radar-analysis)**  
 Analysis of radar signal processing techniques including matched filtering and range compression for improving detection performance.
 
