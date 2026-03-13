@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Zahra Nazar Zadeh Attar
 
-### Signal Processing | Data Analysis | Machine Learning | Radar, Audio, Bio-signals
+### Signal Processing | Data Analysis | Machine Learning | Radar, Audio signals
 
 🎓 I am a Master's student in **Telecommunication Engineering (Signal and Data Analysis)** at **Politecnico di Milano**. My academic work focuses on understanding complex signals and extracting meaningful information from data through **signal processing, statistical modeling, and machine learning**.
 
