@@ -38,7 +38,7 @@ Development of a sensor fusion and state estimation framework for vehicle locali
 **[Deep Learning for Pain Intensity Classification](https://github.com/shaghayeghnz79/pirate-pain-intensity-classification)**  
 Temporal deep learning models for analyzing human motion and video-based skeletal data for pain intensity recognition.
 
-**[Plant Electrophysiological Signal Analysis for Stress Detection]([PASTE-YOUR-NEW-REPO-LINK-HERE](https://github.com/shaghayeghnz79/plant-stress-detection-ml))**  
+**[Plant Electrophysiological Signal Analysis for Stress Detection]([PASTE-YOUR-NEW-REPO-LINK-HERE](https://github.com/shaghayeghnz79/plant-stress-detection-ml)**  
 Machine learning framework for interpreting plant electrical signals and detecting physiological stress conditions.
 
 ---
