@@ -62,7 +62,7 @@ Signal Processing · Machine Learning · Data Analysis · Radar Systems · Audio
 **MSc in Telecommunication Engineering (Signal and Data Analysis)**  
 Politecnico di Milano, Italy
 
-**BSc in Computer Engineering**  
+**BSc in Telecommunication Engineering**  
 Shahid Chamran University of Ahvaz, Iran
 
 ---
